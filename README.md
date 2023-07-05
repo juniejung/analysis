@@ -1,7 +1,7 @@
 # Python 개인 프로젝트
 ## [서울시 생활인구기반 상권 분석]
 ### ✅ 데이터 수집 환경
-- Python version : 3.83.10
+- Python version : 3.8.10
 - IDE : Anaconda3-Jupyter Notebook
 - Library : Pandas, Matplotlib, Seaborn 
 
